@@ -1,3 +1,3 @@
 # NET Online - Repositories
 
-![github-profile]()
+![](http://www.ccrn.ru/images/images/11b_yanov_bad.png)
