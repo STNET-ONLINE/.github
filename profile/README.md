@@ -1,5 +1,3 @@
 # NET Online - Repositories
 
-![](http://www.ccrn.ru/images/images/11b_yanov_bad.png)
-[!TIP]
-Optional information to help a user be more successful.
+![](https://i.ibb.co/d5gjNp9/S-T-A-L-K-E-R-Clear-Sky-Screenshot-2024-05-28-18-21-52-44.png)
