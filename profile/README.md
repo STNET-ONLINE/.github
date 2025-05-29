@@ -3,4 +3,4 @@
 We are a team of developers specializing in game and mod creation. We've been active for over 5 years, during which we've released several original projects and delivered a number of closed-case solutions for gaming communities and partner initiatives.
 ## Our Projects and Contributions
 1. NET Online
-2. Improved X-Ray Engine (IX-Ray)
+2. [Improved X-Ray Engine (IX-Ray)]([https://github.com](https://github.com/ixray-team))
