@@ -1,6 +1,89 @@
-# NET Online Team
-![](https://i.ibb.co/d5gjNp9/S-T-A-L-K-E-R-Clear-Sky-Screenshot-2024-05-28-18-21-52-44.png)
-We are a team of developers specializing in game and mod creation. We've been active for over 5 years, during which we've released several original projects and delivered a number of closed-case solutions for gaming communities and partner initiatives.
-## Our Projects and Contributions
-1. NET Online
-2. [Improved X-Ray Engine (IX-Ray)]([https://github.com](https://github.com/ixray-team))
+<div align="center">
+
+![NET Online](https://i.ibb.co.com/Txw0p3fL/image222.png)
+
+# NET Online
+
+### Многопользовательская онлайн проект во вселенной "STALKER"
+
+![Статус](https://img.shields.io/badge/статус-в%20разработке-b68b40?style=for-the-badge)
+![Платформа](https://img.shields.io/badge/платформа-Windows-2f5d50?style=for-the-badge&logo=windows)
+![Движок](https://img.shields.io/badge/движок-X--Ray-56606b?style=for-the-badge)
+
+[О проекте](#о-проекте) •
+[Команда](#команда) •
+[Репозитории](#публичные-репозитории) •
+[Наш вклад](#наш-вклад)
+
+</div>
+
+---
+
+## О проекте
+
+NET Online - многопользовательская модификация для «Зова Припяти». Главной целью модификации является полная переработка мультиплеерной составляющей оригинальной игры с целью создания новых уникальных игровых режимов, а также переработки старых. Помимо этого, модификация не лишена и сюжетной составляющей: её действие будет повествовать о событиях, произошедших до «Чистого неба»
+
+| Новые режимы | Сюжетная кампания | Свобода игры |
+|:---:|:---:|:---:|
+| Уникальные сценарии и обновлённые классические режимы | История о событиях, произошедших до «Чистого неба» | Совместная игра, соперничество или самостоятельное исследование Зоны |
+
+## От StalkerNET к NET Online
+
+Мы - небольшая команда разработчиков, впервые работающая над модификацией такого масштаба. Ранее, вы могли знать о нас благодаря модификации «S.T.A.L.K.E.R. NET Online» (или StalkerNET), разработка которой велась с ноября 2018 года. Пересмотрев свои ошибки, виденье проекта, и набравшись опыта на нашей предыдущей модификации, мы решились создать что-то глобальное и уникальное, подарив игрокам весёлый и непринужденный мультиплеер.
+
+Мы занимаемся разработкой игр и модификаций более пяти лет. За это время команда выпустила несколько собственных проектов, а также создала ряд внутренних решений для игровых сообществ и партнёрских инициатив.
+
+## Команда
+
+### Основные разработчики
+
+| Участник | Роль в проекте |
+|:---|:---|
+| `@Vodka` | Нарративный дизайнер, дизайнер игрового процесса |
+| `@kuprin` | Графический дизайнер, программист |
+| `@Hozar_2002` | Дизайнер игрового процесса, программист |
+
+### Наши помощники
+
+| Участник | Роль в проекте |
+|:---|:---|
+| `@Arhit890` | Аниматор |
+| `Drive` | Дизайнер игрового мира |
+| `@Salos43` | Дизайнер игрового мира |
+
+## Публичные репозитории
+
+Все открытые наработки, инструменты и материалы команды собраны в организации [STNET-ONLINE](https://github.com/STNET-ONLINE).
+
+| Репозиторий | Что находится внутри |
+|:---|:---|
+| [NET-ONLINE-Modding-Platform](https://github.com/STNET-ONLINE/NET-ONLINE-Modding-Platform) | Открытые игровые ресурсы, которые разрешено изменять: конфигурации интерфейса, шрифты, уровни, звуки, текстуры и частицы для ветки 17.4 и разрабатываемой версии NET Online. |
+| [docs](https://github.com/STNET-ONLINE/docs) | Исходники сайта документации на VitePress: материалы о команде, версиях проекта, интерфейсе и серверном модуле SaveLoot. |
+| [net-online-game-sdk-lts](https://github.com/STNET-ONLINE/net-online-game-sdk-lts) | Legacy SDK для версий NET Online 16.x–17.x: редакторы, справочные материалы, компрессор карт и вспомогательные инструменты. |
+| [net-online-sdk](https://github.com/STNET-ONLINE/net-online-sdk) | Исправленная сборка SDK на основе репозитория RedPanda. Исходный код и проект для сборки в Visual Studio 2019. |
+| [SaveLoot-NET17](https://github.com/STNET-ONLINE/SaveLoot-NET17) | Серверный модуль для NET Online LTS 17.3C: профили и прогресс игроков, администрирование, игровые события и защитные механики. |
+| [xrLua](https://github.com/STNET-ONLINE/xrLua) | Нативная библиотека для версий NET Online на XRMPE 17.3b+: дополнения для `xrCore` и интеграция с модулем SaveLoot. |
+| [IX-Ray-AlternativeLetterica](https://github.com/STNET-ONLINE/IX-Ray-AlternativeLetterica) | Обратно совместимая замена оригинального шрифта Letterica на Roboto Condensed для проектов на IX-Ray. |
+| [PowerShellUpdater](https://github.com/STNET-ONLINE/PowerShellUpdater) | PowerShell-инструмент для загрузки ZIP-обновлений с проверкой контрольных сумм архивов и их содержимого. |
+| [stnet-17-patches](https://github.com/STNET-ONLINE/stnet-17-patches) | Служебный репозиторий для распространения патчей ветки NET Online 17.x: манифесты версий, архивы обновлений и вспомогательные скрипты. |
+
+> Часть репозиториев относится к legacy-версиям NET Online и сохранена для сообщества, совместимости и истории разработки.
+
+## Наш вклад
+
+Помимо NET Online, мы участвуем в развитии экосистемы X-Ray и проекта [Improved X-Ray Engine (IX-Ray)](https://github.com/ixray-team).
+
+Открывая инструменты, игровые модули и материалы для моддинга, мы хотим упростить создание собственных серверов, дополнений и новых проектов.
+
+---
+
+<div align="center">
+
+**Следите за разработкой и исследуйте наши проекты**
+
+[GitHub](https://github.com/STNET-ONLINE) •
+[Сообщество ВКонтакте](https://vk.com/stalknetonline)
+
+<sub>NET Online - неофициальный фанатский проект по вселенной S.T.A.L.K.E.R.</sub>
+
+</div>
